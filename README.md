@@ -32,6 +32,9 @@ Git clone :- https://github.com/RavinaKarnik/Med-Tour-easy-project
 # Contributing :-
 Contributions are welcome! If you have any ideas, suggestions, or improvements, please open an issue or submit a pull request.
 
+## Linkeddln Post link :- 
+https://www.linkedin.com/feed/update/urn:li:activity:7114526818866462720/
+
 # Acknowledgements :-
 1. The Dataset provided by med tour easy company and  is used for this project.
 2. Special thanks to the contributors and developers of Excel and google colab and also related tools for enabling powerful data analysis and reporting capabilities.
